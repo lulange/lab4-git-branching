@@ -15,6 +15,16 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("He says that you have just stomped all over his friend's home.")
+    print("You can either apologize or duel the squirrel.")
+    choice = input("which do you choose? (fight/say sorry)")
+    if choice == "fight":
+        print("You accept the squirel's duel")
+    elif choice == "say sorry":
+        print("You apologize and the squirrel realizes you meant nothing by it.")
+    else:
+        print("The squirrel throws a nut at your head at struts away.")
+
 
 def center_path():
     print("You follow the center path. The road widens and the forest thins.")
