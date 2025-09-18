@@ -12,6 +12,12 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
+    choice = input("What do you do? (pull on it/leave it)")
+    if choice == "pull it":
+        print("The sword comes free and as you marvel at its eerie blue glow, you hear an ear-splitting wooshing sound.")
+        print("A dragon suddenly lands in front of you. It appears not to be pleased you have taken the sword.")
+    
+
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
