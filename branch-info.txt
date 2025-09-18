@@ -1,9 +1,19 @@
 Branches in this repo (with details):
 
-- main
-  SHA: 6fdbf20dc1e92d4355f74832abf80aee2479c167
-  Commits: 3
+- hero-path
+  SHA: 786c86734f3fc0ef65ea0984c6881a5b83f965a5
+  Commits: 6
   Recent commits:
+    786c867 | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: Lucas Lange <53273617+lulange@users.noreply.github.com> | Date: 2025-09-18T13:31:21-04:00 | Summarize hero path in README.md
+    fc79342 | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: Lucas Lange <53273617+lulange@users.noreply.github.com> | Date: 2025-09-18T13:29:28-04:00 | added options on the hero path to fight or run from the dragon
+    8e72396 | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: Lucas Lange <53273617+lulange@users.noreply.github.com> | Date: 2025-09-18T13:20:30-04:00 | added an option to grab the sword and a dragon that comes when you do
+    6fdbf20 | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: Lucas Lange <53273617+lulange@users.noreply.github.com> | Date: 2025-09-18T13:12:06-04:00 | Added a center path.
+    0f75208 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T16:52:16Z | Auto-update branch-info.txt
+- main
+  SHA: b921a1ec4cf34cb1485e3320a4a447879432a960
+  Commits: 4
+  Recent commits:
+    b921a1e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T17:31:55Z | Auto-update branch-info.txt
     6fdbf20 | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: Lucas Lange <53273617+lulange@users.noreply.github.com> | Date: 2025-09-18T13:12:06-04:00 | Added a center path.
     0f75208 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T16:52:16Z | Auto-update branch-info.txt
     8fea875 | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T12:52:07-04:00 | Initial commit
