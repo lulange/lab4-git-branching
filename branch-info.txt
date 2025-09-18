@@ -10,14 +10,14 @@ Branches in this repo (with details):
     6fdbf20 | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: Lucas Lange <53273617+lulange@users.noreply.github.com> | Date: 2025-09-18T13:12:06-04:00 | Added a center path.
     0f75208 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T16:52:16Z | Auto-update branch-info.txt
 - main
-  SHA: 949914063815548bf6768f5da96f7d6df1ba1838
-  Commits: 5
+  SHA: 8d61d8ee14d47ceb202a8ca8172d966c441b0e6b
+  Commits: 10
   Recent commits:
-    9499140 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T17:32:06Z | Auto-update branch-info.txt
-    b921a1e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T17:31:55Z | Auto-update branch-info.txt
-    6fdbf20 | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: Lucas Lange <53273617+lulange@users.noreply.github.com> | Date: 2025-09-18T13:12:06-04:00 | Added a center path.
-    0f75208 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T16:52:16Z | Auto-update branch-info.txt
-    8fea875 | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T12:52:07-04:00 | Initial commit
+    8d61d8e | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: Lucas Lange <53273617+lulange@users.noreply.github.com> | Date: 2025-09-18T13:49:14-04:00 | Merge branch 'villain-path'
+    8c5a549 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T17:47:33Z | Auto-update branch-info.txt
+    1e10531 | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: Lucas Lange <53273617+lulange@users.noreply.github.com> | Date: 2025-09-18T17:46:57Z | Summarize villain path in README.me
+    c31440f | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: Lucas Lange <53273617+lulange@users.noreply.github.com> | Date: 2025-09-18T17:45:25Z | you can now defeat the squirrel and choose to be a villain or not
+    f85b85a | Author: Lucas Lange <53273617+lulange@users.noreply.github.com> | Committer: Lucas Lange <53273617+lulange@users.noreply.github.com> | Date: 2025-09-18T17:39:14Z | created an option to duel the squirrel in story.py
 - villain-path
   SHA: 1e105310fbce2fac4f36acbb89f45bcfd87939bd
   Commits: 8
